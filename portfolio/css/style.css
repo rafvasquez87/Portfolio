@@ -1,16 +1,11 @@
 body {
 	font-family: 'Varela Round', sans-serif;
-	/*background-image: url(../images/background.jpg);*/
 	background-color: #E8E7E1;
 	background-repeat: no-repeat;
 	background-size: 100% 100%;
 }
-
-
 .header {
 	display: flex;
-
-
 }
 .logo {
 	height: 150px;
@@ -19,7 +14,7 @@ body {
 	padding-top: 10px;
 
 }
-.logo_head{
+.logo_head {
 	width: 50%
 }
 .name {
@@ -47,11 +42,11 @@ hr.style3 {
 i {
 	height: 20px;
 	padding-right: 10px;
-	tex
 }
-.work h4 {
+p {
 	text-align: center;
 	color: #4FADFF;
+	font-size: 20px;
 }
 article {
 	margin-top: 10px;
